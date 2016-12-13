@@ -1,0 +1,34 @@
+{
+   "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.zendframework.com"
+        }
+   ],
+   "minimum-stability": "dev",
+   "require":{
+      "doctrine/orm": "*",
+      "react/react":"*",
+      "zendframework/zend-authentication": "*",
+      "zendframework/zend-barcode": "*",
+      "zendframework/zend-cache": "*",
+      "zendframework/zend-code": "*",
+      "zendframework/zend-component-installer":"*",
+      "zendframework/zend-config":"*",
+      "zendframework/zend-console":"*",
+      "zendframework/zend-crypt":"*",
+      "zendframework/zend-mail": "*",
+      "zendframework/zend-debug":"*",
+      "zendframework/zend-file":"*",
+      "zendframework/zend-filter":"*",
+      "zendframework/zend-i18n":"*",
+      "zendframework/zend-i18n-resources":"*",
+      "zendframework/zend-json":"*",
+      "zendframework/zend-loader":"*",
+      "zendframework/zend-log":"*",
+      "zendframework/zend-serializer":"*",
+      "zendframework/zend-servicemanager":"*",
+      "zendframework/zend-stdlib":"*",
+      "zendframework/zend-xml2json":"*"
+   }
+}
